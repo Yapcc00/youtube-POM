@@ -1,0 +1,19 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(œÖ±ô8≈Ã¥À»1
+^
+java:S1128"<Remove this unused import 'com.youtube.page.ListaVideoPage'.(ãª—¸˝ˇˇˇˇ8«Ã¥À»1
+^
+java:S1128"<Remove this unused import 'com.youtube.page.ValidacionPage'.(√≈óØ˚ˇˇˇˇ8«Ã¥À»1
+j
+java:S1128"HRemove this unused import 'net.serenitybdd.core.pages.WebElementFacade'.(·¢Ëﬁ˙ˇˇˇˇ8»Ã¥À»1
+_
+java:S1128"BRemove this unused import 'org.fluentlenium.core.annotation.Page'.(‚áÎø8»Ã¥À»1
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(Òöˇ¿8»Ã¥À»1
+p
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(˚Ä»È˙ˇˇˇˇ8»Ã¥À»1
+f
+java:S1128	"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(•ê˜Û8»Ã¥À»1
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(Î·Øâ¸ˇˇˇˇ8»Ã¥À»1
