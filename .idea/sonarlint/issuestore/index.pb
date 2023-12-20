@@ -5,10 +5,6 @@
 -src/test/java/com/youtube/runners/Runner.java,4\f\4fb07d4c4962fa32f71015f65c9dfe59b6083fb3
 {
 Ksrc/test/java/com/youtube/stepDefinitions/busquedaVideoStepDefinitions.java,2\f\2f70040bd50be83df7d4913decc70ae2ac56ee78
-g
-7src/main/java/com/youtube/steps/busquedaVideoSteps.java,b\a\ba90370d4168a44d9d3a7c7c10b6ee4f8bef04f3
-e
-5src/main/java/com/youtube/page/busquedaVideoPage.java,3\8\3857f97bd98a2a55650a3b07068e2e9d6c0c9bc6
 b
 2src/main/java/com/youtube/page/ListaVideoPage.java,f\6\f65de567ad645ef20ff705ab2043d8023851607a
 ^
